@@ -4,7 +4,7 @@ Let python automatically fill in a medical form with information from a patient 
 Tutorial file from the following post on medium:
 https://k-h-kramp.medium.com/automatic-completion-of-a-medical-form-in-python-e7ad4d4dedae
 Original blog post can also be found via this link:
-
+https://medicalprogress.dev/automated-completion-of-a-form/
 
 Two files:
 1) Jupyter Notebook version:  
