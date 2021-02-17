@@ -1,5 +1,5 @@
 # automatic-medical-form-completion
-Let python automatically fill in a medical form with information from a patient file
+Let python automatically fill in a medical form with information from a dummy patient file.
 
 Tutorial file from the following post on medium:
 https://k-h-kramp.medium.com/automatic-completion-of-a-medical-form-in-python-e7ad4d4dedae
